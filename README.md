@@ -5,10 +5,10 @@ A tiny notebook consisting syntax of general markdown features.
 
 ## Index
 1. Lists  
-    1. [Ordered List](#i.-Ordered-List)    
-    2. [Unordered List](#ii.-Unordered-List)  
-    3. [Nested Lists](#iii.-Nested-Lists)  
-    4. [Mixed Lists](#iv.-Mixed-Lists)  
+    1. [Ordered List](#i.-ordered-list)    
+    2. [Unordered List](#ii.-unordered-list)  
+    3. [Nested Lists](#iii.-nested-lists)  
+    4. [Mixed Lists](#iv.-mixed-lists)  
 
 ## 1. Lists
 
