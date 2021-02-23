@@ -11,7 +11,6 @@ A tiny notebook consisting syntax of general markdown features.
     4. [Mixed Lists](#iv.-mixed-lists)  
 
 ## 1. Lists
-[Mixed Lists](#iv.-mixed-lists)
 ### i. Ordered List
     Markup ::
     1. First Element
