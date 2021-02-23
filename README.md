@@ -5,7 +5,7 @@ A tiny notebook consisting syntax of general markdown features.
 
 ## Index
 1. Lists  
-    1. [Ordered List](#i.-ordered-list)    
+    1. [Ordered List](i.-ordered-list)    
     2. [Unordered List](#ii.-unordered-list)  
     3. [Nested Lists](#iii.-nested-lists)  
     4. [Mixed Lists](#iv.-mixed-lists)  
