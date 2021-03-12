@@ -4,14 +4,14 @@ A tiny notebook consisting syntax of general markdown features.
 **Expertise:** Beginner  
 
 ## Index
-1. Lists  
-    1. [Ordered List](#i.-ordered-list)    
-    2. [Unordered List](#ii.-unordered-list)  
-    3. [Nested Lists](#iii.-nested-lists)  
-    4. [Mixed Lists](#iv.-mixed-lists)  
+- Lists  
+    - [Ordered List](#ordered-list)    
+    - [Unordered List](#unordered-list)  
+    - [Nested Lists](#nested-lists)  
+    - [Mixed Lists](#mixed-lists)  
 
-## 1. Lists
-### i. Ordered List
+## Lists
+### Ordered List
     Markup ::
     1. First Element
     2. Second Element
@@ -21,7 +21,7 @@ A tiny notebook consisting syntax of general markdown features.
 2. Second Element
 3. Third Element  
 
-### ii. Unordered List
+### Unordered List
     Markup ::
     - First Element
     - Second Element
@@ -31,7 +31,7 @@ A tiny notebook consisting syntax of general markdown features.
 - Second Element
 - Third Element
 
-### iii. Nested Lists
+### Nested Lists
 **1. Ordered Nested List**   
 
     Markup ::
@@ -66,7 +66,7 @@ A tiny notebook consisting syntax of general markdown features.
     - Sub-element 2.1
     - Sub-element 2.2
 
-### iv. Mixed Lists
+### Mixed Lists
 **1. Ordered Mixed List**   
 
     Markup ::
