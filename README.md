@@ -9,6 +9,9 @@ A tiny notebook consisting syntax of general markdown features.
     - [Unordered List](#unordered-list)  
     - [Nested Lists](#nested-lists)  
     - [Mixed Lists](#mixed-lists)  
+- Tables
+    - Basic Tables
+    - Aligned Tables
 
 ## Lists
 ### Ordered List
@@ -100,3 +103,43 @@ A tiny notebook consisting syntax of general markdown features.
 - Second Element
     1. Sub-element 2.1
     2. Sub-element 2.2
+
+## Tables
+### Basic Tables
+    Markup::
+    First Header  | Second Header
+    ------------- | -------------
+    Content Cell  | Content Cell
+    Content Cell  | Content Cell
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+**Adding a pipe | in a cell**
+
+    Markup::
+    First Header  | Second Header
+    ------------- | -------------
+    Content Cell  | Content Cell
+    Content Cell  |  \|
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  |  \| 
+
+### Aligned Tables
+**Left, right and center aligned table**
+
+    Markup::
+    Left aligned Header | Right aligned Header | Center aligned Header
+    | :--- | ---: | :---:
+    Content Cell  | Content Cell | Content Cell
+    Content Cell  | Content Cell | Content Cell
+
+Left aligned Header | Right aligned Header | Center aligned Header
+| :--- | ---: | :---:
+Content Cell  | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell
