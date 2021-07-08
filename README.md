@@ -12,6 +12,7 @@ A tiny notebook consisting syntax of general markdown features.
 - Tables
     - Basic Tables
     - Aligned Tables
+- Mathematical Formulae
 
 ## Lists
 ### Ordered List
@@ -143,3 +144,6 @@ Left aligned Header | Right aligned Header | Center aligned Header
 | :--- | ---: | :---:
 Content Cell  | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell
+
+## Mathematical Formulae
+[Reference](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)
