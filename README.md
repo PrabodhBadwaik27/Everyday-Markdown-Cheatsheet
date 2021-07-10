@@ -146,10 +146,9 @@ Content Cell  | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell
 
 ## Mathematical Formulae
-<img src="https://render.githubusercontent.com/render/math?math=<!--insert-forumla-here-->"> 
-e.g. 
-
     Markup::
+    <img src="https://render.githubusercontent.com/render/math?math=<!--insert-forumla-here-->">
+    
     <img src="https://render.githubusercontent.com/render/math?math=s^{2} = \frac{\sum (x_{i} - \bar{x})^{2}}{N - 1}">
     
 <img src="https://render.githubusercontent.com/render/math?math=s^{2} = \frac{\sum (x_{i} - \bar{x})^{2}}{N - 1}">
